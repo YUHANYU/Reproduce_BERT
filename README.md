@@ -1,3 +1,2 @@
 阅读论文 *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*，复现**BERT**模型。
-
-代码还在调试编码阶段，尚未完成。
+已经可以跑通BERT模型的pre-training阶段，正在寻找数据进行预训练，下一步会做fine-tuning
